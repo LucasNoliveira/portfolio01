@@ -1,0 +1,52 @@
+body {
+    background-image: url(img/background-of-roasted-fresh-brown-coffee-beans-perfect-for-a-cool-wallpaper.jpg);
+    background-size: 3000px;
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+p {
+    color: aliceblue;
+}
+
+.topnav {
+    background-color: #eba73a5d;
+    overflow: hidden;
+    width: 1790px;
+    height: 273px;
+    margin: -8px;
+  }
+
+.box {
+    background-color: #eba73a5d;
+    overflow: hidden;
+    width: 790px;
+    height: 1000px;
+    align-self: center
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div {
+    border: 15px solid #b4761100;
+    padding: 50px;
+    margin: 150px;
+ }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
